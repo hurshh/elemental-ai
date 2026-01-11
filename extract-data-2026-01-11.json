@@ -1,0 +1,1455 @@
+{
+  "mcmaster_carr_products": [
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "5\"",
+        "Length Tolerance": "-0.03\" to 0.03\"",
+        "Width": "5\"",
+        "Width Tolerance": "-0.03\" to 0.03\"",
+        "Thickness": "0.375\"",
+        "Thickness Tolerance": "-0.03\" to 0.03\"",
+        "Score Interval": "1\" × 1\"",
+        "Color": "Black",
+        "Material": "ABS",
+        "Specifications Met": "ASTM D785",
+        "Performance": "Breakaway, Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Texture": "Scored",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/5117756B/95015K46.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K46"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "6\"",
+        "Length Tolerance": "-0.03\" to 0.03\"",
+        "Width": "4\"",
+        "Width Tolerance": "-0.03\" to 0.03\"",
+        "Thickness": "0.25\"",
+        "Thickness Tolerance": "-0.03\" to 0.03\"",
+        "Color": "Black",
+        "Material": "ABS",
+        "Specifications Met": "ASTM D785",
+        "Performance": "Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/1908AA69/95015K43.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K43"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Backing Type": "Adhesive",
+        "Width": "1/4\"",
+        "Length": "9 ft.",
+        "Thickness": "0.004\"",
+        "Thickness Tolerance": "-0.0004\" to 0.0004\"",
+        "Material Thickness": "0.002\"",
+        "Adhesive Type": "Acrylic",
+        "Adhesive Thickness": "0.002\"",
+        "Form": "Roll, Tape",
+        "Liner Type": "Paper",
+        "Magnetic Properties": "May Be Mildly Magnetic",
+        "Material": "18-8 Stainless Steel",
+        "Performance": "Corrosion Resistant",
+        "System of Measurement": "Inch",
+        "Temperature": "-30° F to 250° F",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "732690.8695",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {
+        "Minimum Hardness": "Rockwell B84"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250427/5BA29A34/1143N22.PDF",
+          "value_citation": "https://www.mcmaster.com/1143N22"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Material": "110 Copper",
+        "Shape": "Sheet and Bar",
+        "Appearance": "Plain",
+        "Thickness": "1/2\"",
+        "Thickness Tolerance Range": "-0.015\" to 0.015\"",
+        "Tolerance Rating": "Standard",
+        "Width": "12\"",
+        "Width Tolerance Range": "-0.25\" to 0.25\"",
+        "Length": "12\"",
+        "Length Tolerance Range": "-0.25\" to 0.25\"",
+        "Fabrication": "Cold Rolled",
+        "Temper": "H00 to H01",
+        "Temper Rating": "1/8 Hard to 1/4 Hard",
+        "Heat Treatable": "No",
+        "Certificate": "Material Certificate with Traceable Lot Number",
+        "Specifications Met": "ASTM B152",
+        "Straightness Tolerance": "Not Rated",
+        "Surface Resistivity": "10.3 cir. mil-ohm/ft.",
+        "Bismuth": "0-0.005%",
+        "Lead": "0-0.005%",
+        "Oxygen": "0-0.04%",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Additional Specifications": "SDS",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "United States",
+        "USMCA Qualifying": "No",
+        "Schedule B": "740919.0000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {
+        "Yield Strength": "Not Rated",
+        "Hardness": "Rockwell F40",
+        "Hardness Rating": "Soft",
+        "Density": "0.322 lbs./cu. in.",
+        "Melting Point Temperature": "1949° F",
+        "Modulus of Elasticity": "17.0 ksi × 103",
+        "Thermal Conductivity": "226 Btu/hr. × ft./°F @ 68 ° F",
+        "Elongation": "20%",
+        "Copper": "99.9%"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250511/9E576CAA/8995K14.PDF",
+          "value_citation": "https://www.mcmaster.com/8995K14"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Backing Type": "Adhesive",
+        "Width": "1/2\"",
+        "Length": "9 ft.",
+        "Thickness": "0.004\"",
+        "Thickness Tolerance": "-0.0004\" to 0.0004\"",
+        "Material Thickness": "0.002\"",
+        "Adhesive Type": "Acrylic",
+        "Adhesive Thickness": "0.002\"",
+        "Form": "Roll, Tape",
+        "Liner Type": "Paper",
+        "Magnetic Properties": "May Be Mildly Magnetic",
+        "Material": "18-8 Stainless Steel",
+        "Performance": "Corrosion Resistant",
+        "System of Measurement": "Inch",
+        "Temperature": "-30° F to 250° F",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "732690.8695",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {
+        "Minimum Hardness": "Rockwell B84"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250427/307E903F/1143N23.PDF",
+          "value_citation": "https://www.mcmaster.com/1143N23"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "6\"",
+        "Length Tolerance": "-0.03\" to 0.03\"",
+        "Width": "4\"",
+        "Width Tolerance": "-0.03\" to 0.03\"",
+        "Thickness": "0.0625\"",
+        "Thickness Tolerance": "-0.03\" to 0.03\"",
+        "Color": "Yellow",
+        "Material": "Polystyrene",
+        "Specifications Met": "ASTM D785",
+        "Performance": "Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/D53CDE57/95015K41.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K41"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Material": "932 Bearing Bronze",
+        "Shape": "Sheet and Bar",
+        "Appearance": "Plain",
+        "Thickness": "1\"",
+        "Thickness Tolerance Range": "-0.002\" to 0.002\"",
+        "Tolerance Rating": "Tight",
+        "Width": "3\"",
+        "Fabrication": "Cast",
+        "Temper": "M07",
+        "Heat Treatable": "No",
+        "Certificate": "Material Certificate with Traceable Lot Number",
+        "Mechanical Finish": "Precision Ground",
+        "Specifications Met": "ASTM B505",
+        "Parallel Tolerance": "Not Rated",
+        "Nonsparking Properties": "Nonsparking",
+        "Antimony": "0-0.35%",
+        "Lead": "6-8%",
+        "Tin": "6.3-7.5%",
+        "Zinc": "1-4%",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Length Tolerance": "Plus",
+        "RoHS": "Not Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "Spain or United States",
+        "USMCA Qualifying": "No",
+        "Schedule B": "740939.0000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {
+        "Yield Strength": "20,000 psi",
+        "Hardness": "Rockwell B25",
+        "Hardness Rating": "Soft",
+        "Density": "0.322 lbs./cu. in.",
+        "Melting Point Temperature": "1570° F",
+        "Modulus of Elasticity": "14.5 ksi × 103",
+        "Thermal Conductivity": "33.6 Btu/hr. × ft./°F @ 68° F",
+        "Elongation": "10%",
+        "Aluminum": "0.005%",
+        "Copper": "81-85%",
+        "Iron": "0.2%",
+        "Nickel": "1.0% (including Cobalt)",
+        "Phosphorus": "0-0.15%",
+        "Silicon": "0.005-0.08%",
+        "Sulfur": "0-0.08%"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250511/84BE77A2/8294K651.PDF",
+          "value_citation": "https://www.mcmaster.com/8294K651"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Material": "EPDM",
+        "Shape": "Oblong",
+        "Height": "2 1/2\"",
+        "Width": "3 1/2\"",
+        "Gasket Width": "1/2\"",
+        "Thickness": "1/4\"",
+        "Maximum Pressure": "180 psi",
+        "Temperature Range": "-55° F to 380° F",
+        "Color": "Black",
+        "Country of Origin": "India",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "401693.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Environment": "High Temperature",
+        "Hardness": "Durometer 80A",
+        "Hardness Rating": "Hard"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250505/E25B31A7/1923K89.PDF",
+          "value_citation": "https://www.mcmaster.com/1923K89"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Performance": "Ultra High Density",
+        "Shape": "Sheet",
+        "Thickness": "1/4\"",
+        "Thickness Tolerance": "-0.002\" to 0.002\"",
+        "Width": "6\"",
+        "Width Tolerance": "0\" to 0.04\"",
+        "Length": "12\"",
+        "Length Tolerance": "0\" to 0.04\"",
+        "Mechanical Finish": "Ground",
+        "Temper Rating": "Not Rated",
+        "Appearance": "Plain",
+        "Certificate Form": "Digital",
+        "Certificate Type": "Material Certificate with Traceable Lot Number",
+        "Flatness Tolerance": "0.020\"",
+        "Heat Treatment": "Annealed",
+        "Material": "Tungsten",
+        "Straightness Tolerance": "Not Rated",
+        "Minimum": "Not Rated",
+        "Maximum": "6,000° F",
+        "Tolerance Rating": "Tight",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Country of Origin": "China",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "820900.0030",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No",
+        "Additional Specifications": "SDS"
+      },
+      "material_properties": {
+        "Environment": "High Temperature",
+        "Yield Strength": "Not Rated",
+        "Hardness": "Rockwell C35 (Hard)",
+        "Coefficient of Thermal Expansion": "7.6 × 10^-6",
+        "Density": "0.697 lb/in³",
+        "Elongation": "Not Rated",
+        "Material Composition, Tungsten": "99.95% Min.",
+        "Tensile Strength": "100,000 psi"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250511/87DB1740/7301N28.PDF",
+          "value_citation": "https://www.mcmaster.com/7301N28"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "6\"",
+        "Length Tolerance": "-0.25\" to 0.25\"",
+        "Width": "6\"",
+        "Width Tolerance": "-0.25\" to 0.25\"",
+        "Thickness": "0.0625\"",
+        "Thickness Tolerance": "-0.032\" to 0.032\"",
+        "Score Interval": "2\" × 6\"",
+        "Color": "Black",
+        "Material": "Polystyrene",
+        "Specifications Met": "ASTM D638",
+        "Performance": "Breakaway, Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Texture": "Scored",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/26F032ED/95015K5.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K5"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "1-49 Ft.": "$8.22",
+        "50 or more": "$7.04",
+        "Use For": "Motors, Automation, Continuous Motion, Interference Shielding",
+        "Wire Type": "Stranded",
+        "Flexibility": "Continuous Flex",
+        "Wire Application": "Power",
+        "Number of Wires": "4",
+        "Wire Gauge": "14",
+        "Cable AWG": "14/4",
+        "Shielding": "Double Shielded",
+        "Shield Type": "Braid, Foil",
+        "Current": "15 A @ 86° F",
+        "Voltage": "1,000V AC",
+        "Temperature Range": "-40° to 175° F",
+        "OD": "0.42\"",
+        "Bend Radius": "3.15\"",
+        "Outer Insulation Material": "Polyurethane Rubber",
+        "Outer Insulation Color": "Orange",
+        "Inner Insulation Material": "Polypropylene Plastic",
+        "Inner Insulation Color": "Black, Green/Yellow",
+        "Specifications Met": "UL Recognized Component, CSA Certified, UL 2556 VW-1",
+        "Wire Material": "Bare Copper",
+        "Inner Insulation Marking": "Numbered",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "Germany",
+        "Schedule B": "854449.3080",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Material": "EPDM",
+        "Shape": "Oblong",
+        "Height": "2 1/4\"",
+        "Width": "3 1/4\"",
+        "Gasket Width": "1/2\"",
+        "Thickness": "1/4\"",
+        "Maximum Pressure": "180 psi",
+        "Temperature Range": "-55° F to 380° F",
+        "Color": "Black",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "401693.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {
+        "Environment": "High Temperature",
+        "Hardness": "Durometer 80A",
+        "Hardness Rating": "Hard"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250505/85E2C8D5/1923K71.PDF",
+          "value_citation": "https://www.mcmaster.com/1923K71"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "3/4\"",
+        "Width": "1/2\"",
+        "Thickness": "0.009\"",
+        "Material": "Fiberglass-Reinforced Silicone Rubber",
+        "Color": "Pink",
+        "Temperature Range": "-75° F to 355° F",
+        "Voltage": "5,500V AC",
+        "Flammability Rating": "UL 94 V-0",
+        "Number of Holes": "1",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "701980.1000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Tensile Strength": "1,300 psi",
+        "Hardness": "Durometer 92A"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Tolerance Rating": "Standard",
+        "Thickness": "1/4\"",
+        "Thickness Tolerance": "-0.012\" to 0.012\"",
+        "Width": "12\"",
+        "Width Tolerance": "-0.084\" to 0.084\"",
+        "Fabrication": "Extruded",
+        "Temper Designation": "T6511",
+        "Specifications Met": "ASTM B221, SAE AMS-QQ-A-200/8",
+        "Appearance": "Plain",
+        "Application": "Multipurpose",
+        "Certificate Form": "Digital",
+        "Certificate Type": "Material Certificate with Traceable Lot Number",
+        "Conductivity Percentage": "43% IACS",
+        "Flatness Tolerance": "Not Rated",
+        "Heat Treatable": "Yes",
+        "Heat Treatment": "Hardened",
+        "Material": "6061 Aluminum",
+        "Magnesium": "0.8% to 1.2%",
+        "Other": "0% to 0.15%",
+        "Titanium": "0% to 0.15%",
+        "Zinc": "0% to 0.25%",
+        "Performance": "Corrosion Resistant, Formable, Heat Treatable, High Strength, Machinable, Ultra Low Temperature, Ultra Weldable",
+        "Shape": "Bar, Sheet",
+        "Straightness Tolerance": "Not Rated",
+        "Temperature": "-320° F to 300° F",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Elongation": "12.5%",
+        "Hardness": "Brinell 95",
+        "Hardness Rating": "Soft",
+        "Aluminum": "95.85% to 98.61%",
+        "Chromium": "0.04% to 0.35%",
+        "Copper": "0.15% to 0.4%",
+        "Iron": "0% to 0.7%",
+        "Manganese": "0% to 0.15%",
+        "Silicon": "0.4% to 0.8%",
+        "Yield Strength": "35,000 psi"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250610/5FDCDAE9/9246K13.PDF",
+          "value_citation": "https://www.mcmaster.com/9246K13"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Backing Type": "Adhesive",
+        "Width": "3/8\"",
+        "Length": "9 ft.",
+        "Thickness": "0.004\"",
+        "Thickness Tolerance": "-0.0004\" to 0.0004\"",
+        "Material Thickness": "0.002\"",
+        "Adhesive Type": "Acrylic",
+        "Adhesive Thickness": "0.002\"",
+        "Form": "Roll, Tape",
+        "Liner Type": "Paper",
+        "Magnetic Properties": "May Be Mildly Magnetic",
+        "Material": "18-8 Stainless Steel",
+        "Performance": "Corrosion Resistant",
+        "System of Measurement": "Inch",
+        "Temperature": "-30° F to 250° F",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "732690.8695",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {
+        "Minimum Hardness": "Rockwell B84"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250427/455A4718/1143N225.PDF",
+          "value_citation": "https://www.mcmaster.com/1143N225"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "10\"",
+        "Length Tolerance": "-0.03\" to 0.03\"",
+        "Width": "10\"",
+        "Width Tolerance": "-0.03\" to 0.03\"",
+        "Thickness": "0.5\"",
+        "Thickness Tolerance": "-0.03\" to 0.03\"",
+        "Score Interval": "1\" × 1\"",
+        "Color": "Black",
+        "Material": "ABS",
+        "Specifications Met": "ASTM D785",
+        "Performance": "Breakaway, Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Texture": "Scored",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/431B56FC/95015K45.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K45"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "6\"",
+        "Length Tolerance": "-0.25\" to 0.25\"",
+        "Width": "6\"",
+        "Width Tolerance": "-0.25\" to 0.25\"",
+        "Thickness": "0.125\"",
+        "Thickness Tolerance": "-0.01\" to 0.01\"",
+        "Score Interval": "2\" × 6\"",
+        "Color": "Black",
+        "Material": "ABS",
+        "Specifications Met": "ASTM D638",
+        "Performance": "Breakaway, Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Texture": "Scored",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/B44E662D/95015K6.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K6"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Tolerance Rating": "Standard",
+        "Thickness": "1/2\"",
+        "Thickness Tolerance": "-0.009\" to 0.009\"",
+        "Width": "12\"",
+        "Width Tolerance": "-0.084\" to 0.084\"",
+        "Fabrication": "Extruded",
+        "Temper Designation": "T6511",
+        "Specifications Met": "ASTM B221, SAE AMS-QQ-A-200/8",
+        "Appearance": "Plain",
+        "Application": "Multipurpose",
+        "Certificate Form": "Digital",
+        "Certificate Type": "Material Certificate with Traceable Lot Number",
+        "Conductivity Percentage": "43% IACS",
+        "Flatness Tolerance": "Not Rated",
+        "Heat Treatable": "Yes",
+        "Heat Treatment": "Hardened",
+        "Material": "6061 Aluminum",
+        "Magnesium": "0.8% to 1.2%",
+        "Other": "0% to 0.15%",
+        "Titanium": "0% to 0.15%",
+        "Zinc": "0% to 0.25%",
+        "Performance": "Corrosion Resistant, Formable, Heat Treatable, High Strength, Machinable, Ultra Low Temperature, Ultra Weldable",
+        "Shape": "Bar, Sheet",
+        "Straightness Tolerance": "Not Rated",
+        "Temperature": "-320° F to 300° F",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Elongation": "12.5%",
+        "Hardness": "Brinell 95",
+        "Hardness Rating": "Soft",
+        "Aluminum": "95.85% to 98.61%",
+        "Chromium": "0.04% to 0.35%",
+        "Copper": "0.15% to 0.4%",
+        "Iron": "0% to 0.7%",
+        "Manganese": "0% to 0.15%",
+        "Silicon": "0.4% to 0.8%",
+        "Yield Strength": "35,000 psi"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Material": "Steel/Plastic Blend",
+        "Composition": "Recycled Materials",
+        "Shape": "Sheet and Bar",
+        "Shape Type": "Sheets",
+        "Texture": "Coarse",
+        "Thickness": "0.96\"",
+        "Thickness Tolerance": "-0.04\" to 0.04\"",
+        "Width": "7 1/4\"",
+        "Width Tolerance": "0\" to 1/4\"",
+        "Length": "17 1/4\"",
+        "Length Tolerance": "-1/4\" to 1/4\"",
+        "Backing Type": "Plain",
+        "For Use Outdoors": "Yes",
+        "Minimum Temperature": "Not Rated",
+        "Maximum Temperature": "230° F",
+        "Impact Strength": "Not Rated",
+        "Impact Strength Rating": "Not Rated",
+        "Flatness Tolerance": "Not Rated",
+        "Magnetic Properties": "Magnetic",
+        "Color": "Gray",
+        "Clarity": "Opaque",
+        "Fabrication": "Extruded",
+        "Straightness Tolerance": "Not Rated",
+        "Flexural Strength": "Not Rated",
+        "Flexibility": "Not Rated",
+        "Dielectric Strength": "Not Rated",
+        "Electrical Insulation Rating": "Not Rated",
+        "Water Absorption": "Not Rated",
+        "Water Absorption Rating": "Not Rated",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Weight": "15 lbs.",
+        "Additional Specifications": "SDS",
+        "RoHS": "Not Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "United States",
+        "USMCA Qualifying": "Yes",
+        "Schedule B": "392099.0000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {
+        "Hardness": "Not Rated",
+        "Hardness Rating": "Not Rated",
+        "Yield Strength": "Not Rated",
+        "Tensile Strength": "Not Rated",
+        "Tensile Strength Rating": "Not Rated",
+        "Density": "0.123-0.127 lbs./cu. in."
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20251109/2AD260DA/5153N111.PDF",
+          "value_citation": "https://www.mcmaster.com/5153N111"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "6\"",
+        "Length Tolerance": "-0.03\" to 0.03\"",
+        "Width": "4\"",
+        "Width Tolerance": "-0.03\" to 0.03\"",
+        "Thickness": "0.4375\"",
+        "Thickness Tolerance": "0\" to 0.03\"",
+        "Color": "Brown",
+        "Material": "ABS",
+        "Specifications Met": "ASTM D785",
+        "Performance": "Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250427/22F62EDE/95015K48.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K48"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Material": "EPDM",
+        "Shape": "Oblong",
+        "Height": "2 3/4\"",
+        "Width": "3 3/4\"",
+        "Gasket Width": "1/2\"",
+        "Thickness": "1/4\"",
+        "Maximum Pressure": "180 psi",
+        "Temperature Range": "-55° F to 380° F",
+        "Color": "Black",
+        "Country of Origin": "India",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "401693.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Environment": "High Temperature",
+        "Hardness": "Durometer 80A",
+        "Hardness Rating": "Hard"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250505/9CC894FC/1923K92.PDF",
+          "value_citation": "https://www.mcmaster.com/1923K92"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Use For": "Buildings",
+        "Shielding": "Unshielded",
+        "Wire Type": "Stranded",
+        "Flexibility": "Flexible",
+        "Wire Gauge": "4",
+        "Strand Count": "19/17",
+        "Number of Wires": "1",
+        "Current": "95 A @ 86° F",
+        "Voltage": "600V AC/600V DC",
+        "Temperature Range": "-10° to 190° F",
+        "OD": "0.32\"",
+        "Outer": "Nylon Plastic",
+        "Inner": "PVC Plastic",
+        "Industry Designation": "THHN, THWN-2",
+        "Specifications Met": "UL Listed, C-UL Listed, UL 2556 VW-1",
+        "Wire Material": "Bare Copper",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "United States",
+        "USMCA Qualifying": "Yes",
+        "Schedule B": "854449.3080",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250425/2BA4F7F6/7715T181.PDF",
+          "value_citation": "https://www.mcmaster.com/7715T181"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "6\"",
+        "Length Tolerance": "-0.25\" to 0.25\"",
+        "Width": "6\"",
+        "Width Tolerance": "-0.25\" to 0.25\"",
+        "Thickness": "0.25\"",
+        "Thickness Tolerance": "-0.012\" to 0.012\"",
+        "Score Interval": "2\" × 6\"",
+        "Color": "Black",
+        "Material": "ABS",
+        "Specifications Met": "ASTM D638",
+        "Performance": "Breakaway, Electrically Insulating, Large Adjust, Lightweight, Moisture Resistant",
+        "System of Measurement": "Inch",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Texture": "Scored",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "392030.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/3774BC31/95015K7.PDF",
+          "value_citation": "https://www.mcmaster.com/95015K7"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Backing Type": "Adhesive",
+        "Width": "3/4\"",
+        "Length": "9 ft.",
+        "Thickness": "0.004\"",
+        "Thickness Tolerance": "-0.0004\" to 0.0004\"",
+        "Material Thickness": "0.002\"",
+        "Adhesive Type": "Acrylic",
+        "Adhesive Thickness": "0.002\"",
+        "Form": "Roll, Tape",
+        "Liner Type": "Paper",
+        "Magnetic Properties": "May Be Mildly Magnetic",
+        "Material": "18-8 Stainless Steel",
+        "Performance": "Corrosion Resistant",
+        "System of Measurement": "Inch",
+        "Temperature": "-30° F to 250° F",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "732690.8695",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {
+        "Minimum Hardness": "Rockwell B84"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250427/748FA67D/1143N24.PDF",
+          "value_citation": "https://www.mcmaster.com/1143N24"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "1 7/16\"",
+        "Width": "27/32\"",
+        "Thickness": "0.009\"",
+        "Material": "Fiberglass-Reinforced Silicone Rubber",
+        "Color": "Pink",
+        "Temperature Range": "-75° F to 355° F",
+        "Voltage": "5,500V AC",
+        "Flammability Rating": "UL 94 V-0",
+        "Number of Holes": "2",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "701980.1000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Tensile Strength": "1,300 psi",
+        "Hardness": "Durometer 92A"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Use For": "Panel and Equipment (Hook-Up)",
+        "Shielding": "Unshielded",
+        "Wire Type": "Stranded",
+        "Flexibility": "Flexible",
+        "Wire Gauge": "12",
+        "Number of Wires": "1",
+        "Strand Count": "65/30",
+        "Current": "45 A @ 86° F",
+        "Voltage": "300V AC",
+        "Temperature Range": "-40° to 220° F",
+        "OD": "0.12\"",
+        "Specifications Met": "CSA Certified, UL Recognized Component, UL 1007, UL 2556 VW-1",
+        "CSA File Number": "049714\\_0\\_000",
+        "UL File Number": "E83566",
+        "AWM Style": "1569",
+        "Outer Insulation Material": "PVC Plastic",
+        "Wire Finish": "Tin Plated",
+        "Wire Material": "Copper",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "United States",
+        "USMCA Qualifying": "Yes",
+        "Schedule B": "854449.3080",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250510/D53CDE57/8054T438.PDF",
+          "value_citation": "https://www.mcmaster.com/8054T438"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Appearance": "Plain",
+        "Thickness": "0.1\"",
+        "Thickness Tolerance": "-0.012\" to 0.012\"",
+        "Heat Treatment": "Annealed",
+        "Specifications Met": "ASTM B443, SAE AMS5599",
+        "Certificate Form": "Digital",
+        "Certificate Type": "Material Certificate with Traceable Lot Number",
+        "Material": "625 Nickel",
+        "Flatness Tolerance": "Not Rated",
+        "Cobalt": "1.00% Max.",
+        "Columbium/Tantalum": "3.15% to 4.15%",
+        "Molybdenum": "8.00% to 10.00%",
+        "Titanium": "0.40% Max.",
+        "Other": "0.03% Max.",
+        "Performance": "High Strength",
+        "Shape": "Sheet",
+        "Surface Resistivity": "775 cir. mil·ohm/ft",
+        "Minimum": "Not Rated",
+        "Maximum": "Not Rated",
+        "Tolerance Rating": "Standard",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "DFARS Compliance": "Not Specialty Metals Compliant",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "Schedule B Number": "750620.1500",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Yield Strength": "60,000 psi",
+        "Hardness": "Rockwell B95",
+        "Hardness Rating": "Medium",
+        "Density": "0.31 lb/in³",
+        "Elongation": "35%",
+        "Nickel": "54.29% to 68.85%",
+        "Iron": "5.00% Max.",
+        "Aluminum": "0.40% Max.",
+        "Carbon": "0.10% Max.",
+        "Chromium": "20.00% to 23.00%",
+        "Manganese": "0.50% Max.",
+        "Silicon": "0.50% Max.",
+        "Melting Point Temperature": "2,350° F",
+        "Modulus of Elasticity": "28,000 ksi",
+        "Thermal Conductivity @ Temperature": "70 BTU⋅in/(hr⋅ft²⋅°F) @ 70° F"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Material": "EPDM",
+        "Shape": "Oblong",
+        "Height": "2 3/4\"",
+        "Width": "4 1/2\"",
+        "Gasket Width": "1/2\"",
+        "Thickness": "1/4\"",
+        "Maximum Pressure": "180 psi",
+        "Temperature Range": "-55° F to 380° F",
+        "Color": "Black",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "401693.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "Yes"
+      },
+      "material_properties": {
+        "Environment": "High Temperature",
+        "Hardness": "Durometer 80A",
+        "Hardness Rating": "Hard"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250505/9EA1E577/1923K93.PDF",
+          "value_citation": "https://www.mcmaster.com/1923K93"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "1-249 Ft.": "$0.32",
+        "250 or more": "$0.27",
+        "Use For": "Appliances, Vehicles",
+        "Shielding": "Unshielded",
+        "Wire Type": "Stranded",
+        "Flexibility": "Flexible",
+        "Wire Gauge": "18",
+        "Number of Wires": "2",
+        "Cable AWG": "18/2",
+        "Voltage": "12V DC",
+        "Temperature Range": "-40° to 175° F",
+        "Width": "0.21\"",
+        "Thickness": "0.1\"",
+        "Outer Insulation Material": "PVC Plastic",
+        "Outer Insulation Color": "Black, Red",
+        "Industry Designation": "GPT",
+        "Wire Material": "Bare Copper",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "REACH (EC 1907/2006) (01/23/2024, 240 SVHC) Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "Peoples Republic of China",
+        "Schedule B": "854449.3080",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Use For": "Power Supply, Outdoors",
+        "Shielding": "Unshielded",
+        "Wire Type": "Stranded",
+        "Flexibility": "Ultra Flexible",
+        "Wire Gauge": "14",
+        "Number of Wires": "3",
+        "Cable AWG": "14/3",
+        "Current": "18 A @ 86° F",
+        "Voltage": "600V AC",
+        "Temperature Range": "-40° to 190° F",
+        "OD": "0.54\"",
+        "Outer Insulation Material": "EPDM Rubber",
+        "Outer Insulation Color": "Black",
+        "Inner Insulation Material": "EPDM Rubber",
+        "Inner Insulation Color": "Black, Green, White",
+        "Industry Designation": "SOOW",
+        "Specifications Met": "UL Listed, CSA Certified, UL 2556 FT2",
+        "Wire Material": "Bare Copper",
+        "Inner Insulation Marking": "Colored",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "United States",
+        "USMCA Qualifying": "Yes",
+        "Schedule B": "854449.3080",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250429/CC8A5192/7081K23.PDF",
+          "value_citation": "https://www.mcmaster.com/7081K23"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Application": "Power",
+        "Wire Gauge": "16",
+        "Number of Wires": "3",
+        "Cable AWG": "16/3",
+        "Current": "13 A",
+        "Voltage": "125V AC",
+        "Connections": "Straight-Blade Male Plug × Wire Leads",
+        "NEMA Style": "5-15",
+        "End Shape": "90° Elbow",
+        "Number of Blades": "3",
+        "Length": "8 ft.",
+        "OD": "0.31\"",
+        "Insulation Material": "PVC Plastic",
+        "Flexibility": "Flexible",
+        "Wire Type": "Stranded",
+        "Industry Designation": "SJT",
+        "Temperature Range": "0° to 140° F",
+        "Specifications Met": "UL Listed, CSA Certified",
+        "Color": "Black",
+        "RoHS": "RoHS 3 (2015/863/EU) compliant with exemption 6(c) - Lead in copper alloy",
+        "REACH": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "Peoples Republic of China",
+        "Schedule B": "854442.0000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Material": "O1 Tool Steel",
+        "Tolerance Rating": "Tight",
+        "Shape": "Sheet and Bar",
+        "Shape Type": "Bars",
+        "Thickness": "1/64\"",
+        "Thickness Tolerance": "-0.001\" to 0.001\"",
+        "Width": "2\"",
+        "Width Tolerance": "0\" to 0.005\"",
+        "Fabrication": "Cold Worked",
+        "Heat Treatable": "Yes",
+        "Certificate": "Material Certificate with Traceable Lot Number",
+        "Mechanical Finish": "Precision Ground",
+        "Appearance": "Plain",
+        "Temperature Range": "Not Rated",
+        "Specifications Met": "ASTM A681",
+        "Flatness Tolerance": "Not Rated",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Length Tolerance": "Plus",
+        "Length": "1 1/2 ft.",
+        "Additional Specifications": "SDS",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals Compliant (252.225-7009)",
+        "Country of Origin": "Austria, Germany, or United States",
+        "USMCA Qualifying": "No",
+        "Schedule B": "722860.1000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {
+        "Yield Strength": "50,000 psi",
+        "Hardness": "Rockwell B85",
+        "Hardness Rating": "Medium",
+        "Maximum Hardness After Heat Treatment": "Rockwell C65",
+        "Coefficient of Thermal Expansion": "7.1 × 10-6",
+        "Elongation": "25%",
+        "Carbon": "0.85-1.05%",
+        "Chromium": "0.40-0.70%",
+        "Manganese": "1.00-1.40%",
+        "Phosphorus": "0-0.030%",
+        "Silicon": "0-0.50%",
+        "Sulfur": "0-0.030%",
+        "Tungsten": "0.40-0.60%",
+        "Vanadium": "0-0.30%",
+        "Iron": "Remainder"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250511/506FCC64/9516K139.PDF",
+          "value_citation": "https://www.mcmaster.com/9516K139"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "7/8\"",
+        "Width": "3/4\"",
+        "Thickness": "0.009\"",
+        "Material": "Fiberglass-Reinforced Silicone Rubber",
+        "Color": "Pink",
+        "Temperature Range": "-75° F to 355° F",
+        "Voltage": "5,500V AC",
+        "Flammability Rating": "UL 94 V-0",
+        "Number of Holes": "1",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "701980.1000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Tensile Strength": "1,300 psi",
+        "Hardness": "Durometer 92A"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Material": "353 Brass",
+        "Shape": "Sheet and Bar",
+        "Appearance": "Plain",
+        "Thickness": "1/2\"",
+        "Thickness Tolerance Range": "-0.015\" to 0.015\"",
+        "Tolerance Rating": "Standard",
+        "Width": "12\"",
+        "Width Tolerance Range": "-0.25\" to 0.25\"",
+        "Length": "12\"",
+        "Length Tolerance Range": "-0.25\" to 0.25\"",
+        "Fabrication": "Cold Worked",
+        "Temper": "H02",
+        "Temper Rating": "1/2 Hard",
+        "Heat Treatable": "No",
+        "Certificate": "Material Certificate with Traceable Lot Number",
+        "Specifications Met": "ASTM B121",
+        "Surface Resistivity": "39.9 ohm-cir. mil/ft.",
+        "Lead": "2%",
+        "Zinc": "33-36.85%",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Additional Specifications": "SDS",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "Germany, Japan, Mexico, or United States",
+        "USMCA Qualifying": "No",
+        "Schedule B": "740929.0000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {
+        "Yield Strength": "50,000 psi",
+        "Hardness": "Rockwell B65",
+        "Hardness Rating": "Soft",
+        "Density": "0.306 lbs./cu. in.",
+        "Melting Point Temperature": "1630° F",
+        "Modulus of Elasticity": "15.0 ksi × 103",
+        "Thermal Conductivity": "67 Btu/hr. × ft./°F @ 68° F",
+        "Elongation": "23%",
+        "Copper": "61-65%",
+        "Iron": "0-0.15%"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250511/9EE91CB1/8948K31.PDF",
+          "value_citation": "https://www.mcmaster.com/8948K31"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Material": "EPDM",
+        "Shape": "Oblong",
+        "Height": "2 3/4\"",
+        "Width": "3 1/2\"",
+        "Gasket Width": "1/2\"",
+        "Thickness": "1/4\"",
+        "Maximum Pressure": "180 psi",
+        "Temperature Range": "-55° F to 380° F",
+        "Color": "Black",
+        "Country of Origin": "India",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "401693.0000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Environment": "High Temperature",
+        "Hardness": "Durometer 80A",
+        "Hardness Rating": "Hard"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250505/050B9A2D/1923K91.PDF",
+          "value_citation": "https://www.mcmaster.com/1923K91"
+        }
+      ]
+    },
+    {
+      "specifications": {},
+      "material_properties": {},
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Material": "Low-Carbon Steel",
+        "Shape": "Sheet and Bar",
+        "Shape Type": "Sheets",
+        "Thickness": "1/2\"",
+        "Thickness Tolerance": "-0.003\" to 0.003\"",
+        "Tolerance Rating": "Tight",
+        "Width": "12\"",
+        "Width Tolerance": "-1/8\" to 1/8\"",
+        "Length": "12\"",
+        "Length Tolerance": "-1/8\" to 1/8\"",
+        "Fabrication": "Hot Rolled",
+        "Heat Treatable": "Yes",
+        "Certificate": "Material Certificate with Traceable Lot Number",
+        "Mechanical Finish": "Ground",
+        "Appearance": "Plain",
+        "Temperature Range": "Not Rated",
+        "Specifications Met": "ASTM A36",
+        "Flatness Tolerance": "Not Rated",
+        "Warning Message": "Physical and mechanical properties are not guaranteed. They are intended only as a basis for comparison and not for design purposes.",
+        "Additional Specifications": "SDS",
+        "RoHS": "RoHS 3 (2015/863/EU) Compliant",
+        "REACH": "REACH (EC 1907/2006) (01/21/2025, 247 SVHC) Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "United States",
+        "USMCA Qualifying": "Yes",
+        "Schedule B": "721119.7050",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {
+        "Low-Carbon Steel Grade": "A36",
+        "Yield Strength": "36,000 psi",
+        "Hardness": "Not Rated",
+        "Hardness Rating": "Not Rated",
+        "Maximum Hardness After Heat Treatment": "Rockwell C65",
+        "Coefficient of Thermal Expansion": "Not Rated",
+        "Elongation": "Not Rated",
+        "Carbon": "0.26% Max.",
+        "Copper": "0-0.20% Min.",
+        "Manganese": "0.80-1.20%",
+        "Phosphorus": "0.030% Max.",
+        "Silicon": "0.40% Max.",
+        "Sulfur": "0.030% Max.",
+        "Iron": "Remainder"
+      },
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250511/584DFC0B/1388K341.PDF",
+          "value_citation": "https://www.mcmaster.com/1388K341"
+        }
+      ]
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "1\"",
+        "Width": "3/4\"",
+        "Thickness": "0.009\"",
+        "Material": "Fiberglass-Reinforced Silicone Rubber",
+        "Color": "Pink",
+        "Temperature Range": "-75° F to 355° F",
+        "Voltage": "5,500V AC",
+        "Flammability Rating": "UL 94 V-0",
+        "Number of Holes": "1",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "701980.1000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Tensile Strength": "1,300 psi",
+        "Hardness": "Durometer 92A"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Shape": "Rectangle",
+        "Length": "13/16\"",
+        "Width": "15/16\"",
+        "Thickness": "0.009\"",
+        "Material": "Fiberglass-Reinforced Silicone Rubber",
+        "Color": "Pink",
+        "Temperature Range": "-75° F to 355° F",
+        "Voltage": "5,500V AC",
+        "Flammability Rating": "UL 94 V-0",
+        "Number of Holes": "1",
+        "Country of Origin": "United States",
+        "DFARS Compliance": "Specialty Metals COTS-Exempt",
+        "Export Control Classification Number (ECCN)": "EAR99",
+        "REACH Compliance": "Not Compliant",
+        "RoHS Compliance": "RoHS 3 (2015/863/EU) Compliant",
+        "Schedule B Number": "701980.1000",
+        "U.S.–Mexico–Canada Agreement (USMCA) Qualifying": "No"
+      },
+      "material_properties": {
+        "Tensile Strength": "1,300 psi",
+        "Hardness": "Durometer 92A"
+      },
+      "drawing_pdf_download_links": []
+    },
+    {
+      "specifications": {
+        "Application": "Power",
+        "Length": "25 ft.",
+        "Color": "Orange",
+        "Wire Gauge": "14",
+        "Current": "15 A",
+        "Voltage": "125V AC",
+        "Connections": "Straight-Blade Male Plug × Straight-Blade Female Socket",
+        "NEMA Style": "5-15",
+        "End Shape": "Straight",
+        "Number of Blades": "3",
+        "Number of Slots": "3",
+        "Number of Outlets": "1",
+        "Power-Indicating Light": "Without Power-Indicating Light",
+        "OD": "0.38\"",
+        "Insulation Material": "PVC Plastic",
+        "Flexibility": "Flexible",
+        "Industry Designation": "SJTW",
+        "Temperature Range": "0° to 140° F",
+        "For Use Outdoors": "Yes",
+        "Specifications Met": "UL Listed",
+        "RoHS": "Not Compliant",
+        "REACH": "Not Compliant",
+        "DFARS": "Specialty Metals COTS-Exempt",
+        "Country of Origin": "Peoples Republic of China",
+        "Schedule B": "854442.0000",
+        "ECCN": "EAR99"
+      },
+      "material_properties": {},
+      "drawing_pdf_download_links": [
+        {
+          "value": "https://www.mcmaster.com/mvC/Library/CAD1/20250710/9EDF4824/7438K62.PDF",
+          "value_citation": "https://www.mcmaster.com/7438K62"
+        }
+      ]
+    }
+  ]
+}
