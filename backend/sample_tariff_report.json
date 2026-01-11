@@ -1,0 +1,117 @@
+{
+  "tariff_estimation": {
+    "hs_code_classification": {
+      "primary_hs_code": "9403.20.0030",
+      "hs_code_description": "Other wooden furniture, not of a kind used in offices.",
+      "classification_reasoning": "The product predominantly consists of wood components and appears to classify as wooden furniture due to the nature and material composition of the components.",
+      "alternative_codes": [
+        {
+          "code": "4418.40",
+          "description": "Wooden shuttering for concrete construction"
+        },
+        {
+          "code": "7326.90",
+          "description": "Other articles of iron or steel"
+        }
+      ]
+    },
+    "tariff_rates": {
+      "base_duty_rate_percent": 1.5,
+      "additional_duties": [
+        {
+          "name": "Section 301 Tariff",
+          "rate_percent": 25.0,
+          "applies": true,
+          "reason": "The product is manufactured in China, subject to U.S. tariffs on Chinese goods under Section 301."
+        }
+      ],
+      "effective_total_rate_percent": 26.5,
+      "rate_type": "ad valorem"
+    },
+    "estimated_duties": {
+      "estimated_product_value_usd": 500.0,
+      "base_duty_usd": 7.5,
+      "additional_duties_usd": 125.0,
+      "total_estimated_duty_usd": 132.5,
+      "duty_per_kg_usd": 2.9
+    },
+    "material_tariff_breakdown": [
+      {
+        "material": "hardwood",
+        "percentage_of_product": 65.8,
+        "applicable_hs_chapter": "44",
+        "material_duty_rate": 1.8,
+        "notes": "Subject to standard duties on wooden products."
+      },
+      {
+        "material": "softwood",
+        "percentage_of_product": 24.1,
+        "applicable_hs_chapter": "44",
+        "material_duty_rate": 0.0,
+        "notes": "Duty-free under harmonized tariff schedule."
+      },
+      {
+        "material": "steel",
+        "percentage_of_product": 7.5,
+        "applicable_hs_chapter": "73",
+        "material_duty_rate": 2.9,
+        "notes": "Standard duties applicable for steel components."
+      }
+    ],
+    "trade_agreement_analysis": {
+      "applicable_agreements": [],
+      "potential_duty_savings": 0.0,
+      "requirements_for_preference": "N/A",
+      "certificate_of_origin_required": false
+    },
+    "compliance_requirements": [
+      {
+        "requirement": "Customs documentation",
+        "description": "Ensure accurate declaration and submission of entry summary.",
+        "agency": "U.S. Customs and Border Protection",
+        "documentation_needed": [
+          "Commercial Invoice",
+          "Packing List",
+          "Bill of Lading"
+        ]
+      },
+      {
+        "requirement": "Section 301 List compliance",
+        "description": "Products subject to additional tariffs under Section 301 must be properly declared.",
+        "agency": "U.S. Trade Representative",
+        "documentation_needed": [
+          "Product classification confirmation"
+        ]
+      }
+    ],
+    "ai_insights": {
+      "cost_optimization_suggestions": [
+        "Consider altering the country of origin to benefit from lower tariffs via trade agreements.",
+        "Evaluate the possibility of disassembling components to reduce overall duty burden."
+      ],
+      "risk_factors": [
+        "Potential misclassification leading to penalties.",
+        "Risk of changes in tariff policy affecting duty rates."
+      ],
+      "market_considerations": "Current geopolitical tensions may lead to changes in trade policies or tariffs.",
+      "recommendation_summary": "Verify accurate classification and explore alternative sourcing options to mitigate additional tariff costs."
+    },
+    "disclaimers": [
+      "This analysis is based on currently available data and subject to change.",
+      "Ensure consult with a trade expert or customs broker to confirm current tariffs and compliance regulations."
+    ]
+  },
+  "request_parameters": {
+    "origin_country": "China",
+    "destination_country": "United States",
+    "total_weight_kg": 45.6,
+    "declared_value_usd": 500.0,
+    "materials_analyzed": [
+      "hardwood",
+      "softwood",
+      "steel",
+      "zinc",
+      "stainless_steel"
+    ]
+  }
+}

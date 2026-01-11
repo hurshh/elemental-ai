@@ -1,0 +1,194 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-01-10T23:39:53.583401Z",
+    "image_analyzed": "bed_sketch.jpg",
+    "user_context": "wooden bed frame"
+  },
+  "components": [
+    {
+      "name": "Wooden Slats",
+      "quantity": 20,
+      "material": "Hardwood grade",
+      "dimensions": "100cm x 5cm x 1cm",
+      "search_term": "bed support slats",
+      "weight_per_unit_kg": 1.5,
+      "weight_total_kg": 30.0,
+      "raw_materials": {
+        "hardwood": 100
+      },
+      "data_source": "ai_estimated",
+      "identification_logic": "Standard wooden slats for bed frame, estimated based on typical mattress dimension requirements.",
+      "weight_reasoning": "Each hardwood slat of dimensions 100cm x 5cm x 1cm has a volume of 0.005m\u00b3. Using an average hardwood density of 600kg/m\u00b3, the weight per slat is approximately 3kg. For 20 slats, the total weight is 1.5kg each."
+    },
+    {
+      "name": "Wooden Beam",
+      "quantity": 8,
+      "material": "Spruce lumber",
+      "dimensions": "110cm x 5cm x 5cm",
+      "search_term": "structural wood beams",
+      "weight_per_unit_kg": 1.375,
+      "weight_total_kg": 11.0,
+      "raw_materials": {
+        "softwood": 100
+      },
+      "data_source": "ai_estimated",
+      "identification_logic": "Primary support structure for bed frame. Spruce is a common choice for its strength and cost-effectiveness in furniture construction.",
+      "weight_reasoning": "The volume of the beam is 110cm x 5cm x 5cm = 0.0275 m\u00b3. Spruce wood has an average density of approximately 500 kg/m\u00b3, resulting in a weight of 0.0275 m\u00b3 x 500 kg/m\u00b3 = 1.375 kg per beam."
+    },
+    {
+      "name": "Wooden Post",
+      "quantity": 4,
+      "material": "Treated pine",
+      "dimensions": "178cm x 10cm x 10cm",
+      "search_term": "furniture post structural",
+      "weight_per_unit_kg": 2.02,
+      "weight_total_kg": 8.08,
+      "raw_materials": {
+        "wood": 100
+      },
+      "data_source": "ai_estimated",
+      "identification_logic": "Taller support posts for loft bed. Treated pine adds durability against wear and pests.",
+      "weight_reasoning": "The dimensions of the wooden post are 178cm x 10cm x 10cm, which gives a volume of 0.178m x 0.1m x 0.1m = 0.00178m\u00b3. Treated pine has an average density of approximately 640 kg/m\u00b3, leading to a weight of about 1.139kg per post. For 4 posts, this results in a total estimated weight of approximately 4.556kg, or about 2.02kg per unit considering loss during treatment and machining."
+    },
+    {
+      "name": "Wooden Railing",
+      "quantity": 4,
+      "material": "Maple wood",
+      "dimensions": "208cm x 3cm x 3cm",
+      "search_term": "wooden safety railing",
+      "weight_per_unit_kg": 1.62,
+      "weight_total_kg": 6.48,
+      "raw_materials": {
+        "hardwood": 100
+      },
+      "data_source": "ai_estimated",
+      "identification_logic": "Railing for safety on the lofted area. Maple is less prone to splintering for frequent human interaction.",
+      "weight_reasoning": "The weight is estimated based on the volume of the wooden railing (0.208m x 0.03m x 0.03m = 0.00018672 m\u00b3) and the average density of maple wood (approximately 700 kg/m\u00b3). Thus, weight = volume x density = 0.00018672 m\u00b3 * 700 kg/m\u00b3."
+    },
+    {
+      "name": "Stair Rung",
+      "quantity": 5,
+      "material": "Birch wood",
+      "dimensions": "50cm x 3cm x 3cm",
+      "search_term": "staircase rung",
+      "weight_per_unit_kg": 0.45,
+      "weight_total_kg": 2.25,
+      "raw_materials": {
+        "hardwood": 100
+      },
+      "data_source": "ai_estimated",
+      "identification_logic": "Rungs for climbing, Birch provides a good balance of hardness and comfort.",
+      "weight_reasoning": "Birch wood has an approximate density of 680 kg/m\u00b3. The volume of the stair rung is 0.003 m\u00b3 (0.5m x 0.03m x 0.03m), leading to an estimated weight of 0.45 kg per piece."
+    },
+    {
+      "name": "Wooden Support Bracket",
+      "quantity": 4,
+      "material": "Hardwood plywood",
+      "dimensions": "20cm x 20cm x 2cm",
+      "search_term": "wooden support bracket",
+      "weight_per_unit_kg": 1.2,
+      "weight_total_kg": 4.8,
+      "raw_materials": {
+        "hardwood": 80,
+        "plywood": 20
+      },
+      "data_source": "ai_estimated",
+      "identification_logic": "Additional support structures for stability. Hardwood plywood is sturdy yet lightweight.",
+      "weight_reasoning": "Calculated weight based on the volume of hardwood plywood (20cm x 20cm x 2cm = 0.008 m\u00b3) with an average density of around 600 kg/m\u00b3."
+    }
+  ],
+  "weight_summary": {
+    "total_weight_kg": 62.61,
+    "component_weights": [
+      {
+        "name": "Wooden Slats",
+        "quantity": 20,
+        "weight_total_kg": 30.0
+      },
+      {
+        "name": "Wooden Beam",
+        "quantity": 8,
+        "weight_total_kg": 11.0
+      },
+      {
+        "name": "Wooden Post",
+        "quantity": 4,
+        "weight_total_kg": 8.08
+      },
+      {
+        "name": "Wooden Railing",
+        "quantity": 4,
+        "weight_total_kg": 6.48
+      },
+      {
+        "name": "Stair Rung",
+        "quantity": 5,
+        "weight_total_kg": 2.25
+      },
+      {
+        "name": "Wooden Support Bracket",
+        "quantity": 4,
+        "weight_total_kg": 4.8
+      }
+    ]
+  },
+  "material_composition": {
+    "aggregate_percentages": {
+      "hardwood": 67.99,
+      "softwood": 17.57,
+      "wood": 12.91,
+      "plywood": 1.53
+    },
+    "by_component": [
+      {
+        "name": "Wooden Slats",
+        "materials": {
+          "hardwood": 100
+        }
+      },
+      {
+        "name": "Wooden Beam",
+        "materials": {
+          "softwood": 100
+        }
+      },
+      {
+        "name": "Wooden Post",
+        "materials": {
+          "wood": 100
+        }
+      },
+      {
+        "name": "Wooden Railing",
+        "materials": {
+          "hardwood": 100
+        }
+      },
+      {
+        "name": "Stair Rung",
+        "materials": {
+          "hardwood": 100
+        }
+      },
+      {
+        "name": "Wooden Support Bracket",
+        "materials": {
+          "hardwood": 80,
+          "plywood": 20
+        }
+      }
+    ]
+  },
+  "procurement_summary": {
+    "total_components": 6,
+    "total_items": 45,
+    "components_from_database": 0,
+    "components_ai_estimated": 6,
+    "unique_materials": [
+      "hardwood",
+      "softwood",
+      "wood",
+      "plywood"
+    ]
+  }
+}
